@@ -1,0 +1,14 @@
+{
+  "name": "chattify-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix server && npm install --prefix client",
+    "start":"npm run dev --prefix server && npm run dev --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
