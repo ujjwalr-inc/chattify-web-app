@@ -1,4 +1,4 @@
-# 💬 Chattify — Real-Time Chat Application
+# 💬 Chatify — Real-Time Chat Application
 
 A modern real-time chat application built using the **MERN stack** and **Socket.IO**, enabling instant messaging, secure authentication, online presence, typing indicators, and media sharing.
 
